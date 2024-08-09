@@ -2,8 +2,6 @@
 
 ### Notes From Class:
 
-### Notes on Generative Art and Stable Diffusion
-
 **Introduction to Stable Diffusion:**
 Stable Diffusion is a type of generative model that converts noise into images. The process involves adding noise to images and then training a neural network to predict and remove that noise, thereby recovering the original image. This denoising process is at the core of how Stable Diffusion functions. It is based on a broader category of techniques known as diffusion models.
 
